@@ -1,1 +1,2 @@
-"# Genesyst-Lib" 
+# Genesyst-Lib
+Library for C# .Net
