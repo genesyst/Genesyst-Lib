@@ -1,0 +1,36 @@
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Release\Genesyst.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Release\Genesyst.pdb
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Release\System.Web.Http.Common.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Release\System.Web.Http.Common.xml
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\obj\Release\Genesyst.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\obj\Release\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\bin\Release\Genesyst.dll
+D:\@JM\@Projects\Genesyst\bin\Release\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\bin\Release\System.Web.Http.Common.xml
+D:\@JM\@Projects\Genesyst\obj\Release\Genesyst.dll
+D:\@JM\@Projects\Genesyst\obj\Release\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\bin\Release\NHibernate.dll
+D:\@JM\@Projects\Genesyst\bin\Release\Iesi.Collections.dll
+D:\@JM\@Projects\Genesyst\bin\Release\NHibernate.xml
+D:\@JM\@Projects\Genesyst\bin\Release\System.Web.Http.Common.dll
+D:\@JM\@Projects\Genesyst\bin\Release\Iesi.Collections.xml
+D:\@JM\@Projects\Genesyst\obj\Release\Genesyst.csprojResolveAssemblyReference.cache
+D:\@BLProjects\@Source\Genesyst\bin\Release\Genesyst.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\Genesyst.pdb
+D:\@BLProjects\@Source\Genesyst\bin\Release\Antlr3.Runtime.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\FluentNHibernate.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\Iesi.Collections.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\NHibernate.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\Remotion.Linq.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\Remotion.Linq.EagerFetching.dll
+D:\@BLProjects\@Source\Genesyst\bin\Release\Antlr3.Runtime.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\FluentNHibernate.pdb
+D:\@BLProjects\@Source\Genesyst\bin\Release\FluentNHibernate.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\Iesi.Collections.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\NHibernate.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\Remotion.Linq.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\Remotion.Linq.EagerFetching.xml
+D:\@BLProjects\@Source\Genesyst\bin\Release\System.Web.Http.Common.xml
+D:\@BLProjects\@Source\Genesyst\obj\Release\Genesyst.csprojResolveAssemblyReference.cache
+D:\@BLProjects\@Source\Genesyst\obj\Release\Genesyst.dll
+D:\@BLProjects\@Source\Genesyst\obj\Release\Genesyst.pdb

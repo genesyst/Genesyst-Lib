@@ -1,0 +1,72 @@
+D:\FPOPO\Genesyst\bin\Debug\Genesyst.dll
+D:\FPOPO\Genesyst\bin\Debug\Genesyst.pdb
+D:\FPOPO\Genesyst\obj\Debug\Genesyst.dll
+D:\FPOPO\Genesyst\obj\Debug\Genesyst.pdb
+D:\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.dll
+D:\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\bin\Debug\Genesyst.dll
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\bin\Debug\Genesyst.pdb
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.dll
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\obj\Debug\Genesyst.dll
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\obj\Debug\Genesyst.pdb
+D:\SOFT DEBUT\Source\FPOPO\Genesyst\obj\Debug\Genesyst.csprojResolveAssemblyReference.cache
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Debug\Genesyst.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Debug\Genesyst.pdb
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\obj\Debug\Genesyst.dll
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\obj\Debug\Genesyst.pdb
+D:\SOFT DEBUT\PurchaseOrder\Source\FPOPO\Genesyst\obj\Debug\Genesyst.csprojResolveAssemblyReference.cache
+D:\@Import\FPOPO_API\API\Genesyst\bin\Debug\Genesyst.dll
+D:\@Import\FPOPO_API\API\Genesyst\bin\Debug\Genesyst.pdb
+D:\@Import\FPOPO_API\API\Genesyst\bin\Debug\System.Web.Http.Common.dll
+D:\@Import\FPOPO_API\API\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\@Import\FPOPO_API\API\Genesyst\obj\Debug\Genesyst.csprojResolveAssemblyReference.cache
+D:\@Import\FPOPO_API\API\Genesyst\obj\Debug\Genesyst.dll
+D:\@Import\FPOPO_API\API\Genesyst\obj\Debug\Genesyst.pdb
+D:\MSC_Project\Genesyst\bin\Debug\Genesyst.dll
+D:\MSC_Project\Genesyst\bin\Debug\Genesyst.pdb
+D:\MSC_Project\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\MSC_Project\Genesyst\obj\Debug\Genesyst.csprojResolveAssemblyReference.cache
+D:\MSC_Project\Genesyst\obj\Debug\Genesyst.dll
+D:\MSC_Project\Genesyst\obj\Debug\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\bin\Debug\Genesyst.dll
+D:\@JM\@Projects\Genesyst\bin\Debug\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\bin\Debug\Iesi.Collections.dll
+D:\@JM\@Projects\Genesyst\bin\Debug\NHibernate.dll
+D:\@JM\@Projects\Genesyst\bin\Debug\System.Web.Http.Common.dll
+D:\@JM\@Projects\Genesyst\bin\Debug\Iesi.Collections.xml
+D:\@JM\@Projects\Genesyst\bin\Debug\NHibernate.xml
+D:\@JM\@Projects\Genesyst\bin\Debug\System.Web.Http.Common.xml
+D:\@JM\@Projects\Genesyst\obj\Debug\Genesyst.dll
+D:\@JM\@Projects\Genesyst\obj\Debug\Genesyst.pdb
+D:\@JM\@Projects\Genesyst\obj\Debug\Genesyst.csproj.AssemblyReference.cache
+D:\@JM\@Projects\Genesyst\obj\Debug\Genesyst.csproj.CoreCompileInputs.cache
+D:\@JM\@Projects\Genesyst\obj\Debug\Genesyst.csproj.CopyComplete
+D:\@JMProject\Genesyst\bin\Debug\Genesyst.dll
+D:\@JMProject\Genesyst\bin\Debug\Genesyst.pdb
+D:\@JMProject\Genesyst\bin\Debug\Iesi.Collections.dll
+D:\@JMProject\Genesyst\bin\Debug\NHibernate.dll
+D:\@JMProject\Genesyst\bin\Debug\Iesi.Collections.xml
+D:\@JMProject\Genesyst\bin\Debug\NHibernate.xml
+D:\@JMProject\Genesyst\obj\Debug\Genesyst.csprojResolveAssemblyReference.cache
+D:\@JMProject\Genesyst\obj\Debug\Genesyst.dll
+D:\@JMProject\Genesyst\obj\Debug\Genesyst.pdb
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Genesyst.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Genesyst.pdb
+D:\@BLProjects\@Source\Genesyst\obj\Debug\Genesyst.dll
+D:\@BLProjects\@Source\Genesyst\obj\Debug\Genesyst.pdb
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Antlr3.Runtime.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\FluentNHibernate.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Iesi.Collections.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\NHibernate.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Remotion.Linq.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Antlr3.Runtime.xml
+D:\@BLProjects\@Source\Genesyst\bin\Debug\FluentNHibernate.pdb
+D:\@BLProjects\@Source\Genesyst\bin\Debug\FluentNHibernate.xml
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Iesi.Collections.xml
+D:\@BLProjects\@Source\Genesyst\bin\Debug\NHibernate.xml
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Remotion.Linq.xml
+D:\@BLProjects\@Source\Genesyst\bin\Debug\Remotion.Linq.EagerFetching.xml
